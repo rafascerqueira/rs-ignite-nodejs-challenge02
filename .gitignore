@@ -1,0 +1,10 @@
+# Files
+package-*.json
+.env*
+
+# Directories and Folders
+node_modules
+dist
+build
+
+db/**.db
